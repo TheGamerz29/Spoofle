@@ -1,3 +1,4 @@
+![spooflesplash](https://github.com/TheGamerz29/Spoofle/raw/main/Screenshot%20(23).png)
 # Spoofle
 Google search without google trackers and ads.
 
