@@ -15,7 +15,6 @@ Google search without google trackers and ads.
 - View images at full res without site redirect (currently mobile only)
 - Dark mode
 - Randomly generated User Agent
-- Easy to install/deploy
 - DDG-style bang (i.e. `!<tag> <query>`) searches
 - Optional location-based searching (i.e. results near \<city\>)
 - Optional NoJS mode to disable all Javascript in results
