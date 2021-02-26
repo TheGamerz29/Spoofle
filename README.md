@@ -49,3 +49,7 @@ And It's done, You will start surfing with Spoofle!
 ---
 
 If the the search engine is giving you errors, please report it at issues. I will resolve it as fast as possible
+
+---
+
+Spoofle won't be possible without benbusby whoogle-search project
