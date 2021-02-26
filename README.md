@@ -48,6 +48,24 @@ There is two ways to use this search engine.
 And It's done, You will start surfing with Spoofle!
 ---
 
+## How to deploy it for private use?
+
+First click the button down below:<br>
+<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/benbusby/whoogle-search/tree/heroku-app)<br>
+<br>
+You may need to create an account if you don't have any.<br>
+
+Second, give any name to the app.<br>
+
+Third, click deploy. Wait until the process is done.
+
+Then repeat the [process](https://github.com/TheGamerz29/Spoofle#how-do-i-use-it). Except, change the name to from spoofle.herokuapp.com to <your app name>.herokuapp.com.<br>
+
+And it's done! you have your own private Spoofle!
+
+---
+
 If the the search engine is giving you errors, please report it at issues. I will resolve it as fast as possible
 
 ---
