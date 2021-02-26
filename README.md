@@ -29,7 +29,7 @@ There is two ways to use this search engine.
 - Universal
 ---
 
-1. Click on [Spoofle](cutt.ly/spoofle)<br>
+1. Type in cutt.ly/spoofle in your search bar.<br>
 
 - Use it as the default search engine(Chrome)
 ---
