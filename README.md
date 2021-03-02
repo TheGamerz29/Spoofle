@@ -60,7 +60,7 @@ Second, give any name to the app.<br>
 
 Third, click deploy. Wait until the process is done.
 
-Then repeat the [process](https://github.com/TheGamerz29/Spoofle#how-do-i-use-it). Except, change the name to from spoofle.herokuapp.com to <your app name>.herokuapp.com.<br>
+Then repeat the [process](https://github.com/TheGamerz29/Spoofle#how-do-i-use-it). Except, change the name to from spoofle.herokuapp.com to (Your app name).herokuapp.com.<br>
 
 And it's done! you have your own private Spoofle!
 
